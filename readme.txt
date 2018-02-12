@@ -3,8 +3,8 @@ Tifology WordPress Theme
 Contributor: benlumia007
 Tags: custom-background, custom-header, right-sidebar
 Requres at least: 4.5
-Tested up to: 4.6.1
-Stable tag: 0.0.1
+Tested up to: 4.9.4
+Stable tag: 0.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,12 @@ Not Available At the Moment
 
 Changelog
 ================================================================================================
+Version: 0.1.2
+- Change URIs
+
+Version: 0.1.1
+- Minor Change
+
 Version: 0.1.0
 - Major Changes to CSS
 - Add Customize Javascript for Navigation
